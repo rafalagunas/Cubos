@@ -8,8 +8,40 @@ background-repeat: no-repeat;
 
 
 .logo1{
-left:40%;
-top:28.5%;
+left:40.05%;
+top:29.2%;
 position: absolute;
+
+}
+
+.headertop{
+position:absolute;
+letter-spacing:6.3px;  
+font-family: arial;
+font-weight:bold;
+color:white;
+font-size: 370%;
+margin-left: -27%;
+margin-top: -20.85% ;
+
+}
+
+.rectangulo{
+position:absolute;
+top:90%;
+left:23.25%;
+width: 100px;
+transform: rotate(45deg); ; 
+height: 100px; 
+background: #428bca;
+
+}
+
+.QuienesLogo{
+width:100%;
+position:absolute;
+height:10%;
+top:92.5%;
+left:-23.2%;
 
 }
