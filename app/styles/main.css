@@ -32,15 +32,172 @@ left:23.25%;
 width: 100px;
 transform: rotate(45deg); ; 
 height: 100px; 
-background: #428bca;
+background: #C1C1C1;
+opacity:0.25;
+}
+
+.rectangulo:hover{
+
+opacity:.5;
 
 }
 
 .QuienesLogo{
 width:100%;
 position:absolute;
-height:10%;
-top:92.5%;
+height:7%;
+top:94.5%;
 left:-23.2%;
+
+}
+
+
+.rectangulo2{
+position:absolute;
+top:90%;
+left:35.25%;
+width: 100px;
+transform: rotate(45deg); ; 
+height: 100px; 
+background: #C1C1C1;
+opacity:0.25;
+}
+
+.rectangulo2:hover{
+
+opacity:.5;
+
+}
+
+
+.servicios{
+width:100%;
+position:absolute;
+height:7%;
+top:93.7%;
+left:-10.99%;
+
+}
+
+
+.rectangulo3{
+position:absolute;
+top:90%;
+left:47.1%;
+width: 100px;
+transform: rotate(45deg); ; 
+height: 100px; 
+background: #C1C1C1;
+opacity:0.25;
+}
+
+.rectangulo3:hover{
+
+opacity:.5;
+
+}
+
+
+.clientes{
+width:100%;
+position:absolute;
+height:7%;
+top:93.7%;
+left:.5%;
+
+}
+
+
+.rectangulo4{
+position:absolute;
+top:90%;
+left:59.1%;
+width: 100px;
+transform: rotate(45deg); ; 
+height: 100px; 
+background: #C1C1C1;
+opacity:0.25;
+}
+
+.rectangulo4:hover{
+
+opacity:.5;
+
+}
+
+
+.iconoblog{
+width:100%;
+position:absolute;
+height:7%;
+top:93.9%;
+left:13%;
+
+}
+
+
+.rectangulo5{
+position:absolute;
+top:90%;
+left:70.8%;
+width: 100px;
+transform: rotate(45deg); ; 
+height: 100px; 
+background: #C1C1C1;
+opacity:0.25;
+}
+
+.rectangulo5:hover{
+
+opacity:.5;
+
+}
+
+
+.contacto{
+width:100%;
+position:absolute;
+height:7%;
+top:93.9%;
+left:24.5%;
+
+}
+
+
+.rectangulo6{
+position:absolute;
+top:90%;
+left:82.8%;
+width: 100px;
+transform: rotate(45deg); ; 
+height: 100px; 
+background: #C1C1C1;
+opacity:0.25;
+}
+
+.rectangulo6:hover{
+
+opacity:.5;
+
+}
+
+
+.user{
+width:100%;
+position:absolute;
+height:7%;
+top:93.6%;
+left:36.6%;
+
+}
+
+.arrow{
+
+width:3.5%;
+position:absolute;
+top:127%;
+left:54.8%;
+
+
 
 }
